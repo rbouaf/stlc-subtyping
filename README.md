@@ -16,4 +16,4 @@ Beyond nominal inheritance, languages like OCaml and TypeScript explore structur
 
 This paper outlines our implementation strategy, describing the algorithmic approach to subtyping and detailing the implementation of key concepts, including function types, product types, record types, conditionals, and type operations such as joins and meets. Our algorithmic approach is adapted from its presentation in Types and Programming Languages by Pierce [13].
 
-# The rest of the paper can be found in `Final_Report.pdf`
+# The rest of the paper is in `523_Final_Report.pdf`
